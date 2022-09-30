@@ -1,2 +1,2 @@
 # Module-1-Challenge
-EXCEL SHEETS WITH CONDITIONAL FORMATTING, CONDITIONAL FORMULAS, AND MACROS.
+Excel worbook including conditional formatting, conditional formulas, and macros. 
